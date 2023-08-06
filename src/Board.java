@@ -14,5 +14,6 @@ public class Board {
     public void buildSquare() {
         // code..
         // build square
+        test;
     }
 }
